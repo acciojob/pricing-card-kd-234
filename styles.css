@@ -1,8 +1,40 @@
 /*  your css code here. If applicable */
 #div-1{
-	width:1120;
-	height:2100;
+	width:600px;
+	height:800px;
 	background-color:#F1F1F1;
-	align:center;
+	text-align:center;
+	box-shadow:0px 0px 10px black;
 }
+#img-1{
+	width:400px;
+	padding-top:100px
+	
+}
+.text{
+margin-top:00px; 
+	padding-top:0px;
+	padding-right:100px;
+	padding-left:100px;
+	font-size:20px;
+	
+
+}
+#h1{
+font-size:60px;
+
+}
+#btn{
+	width:300px;
+	height:100px;
+	color:white;
+	background-color:#FE615A;
+	margin:10px;
+	padding:30px;
+	box-shadow: 0px 0px 10px red;
+	border-radius:10px;
+	font-size:40px;
+	
+}
+
 
